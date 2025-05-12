@@ -25,3 +25,9 @@ I'm passionate Btech student from ITM group of instituion (Aligarh) with a keen 
 
 ## 📊 Top Languages Used 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-jadoun&layout=compact&theme=tokyonight)](https://github.com/Harsh-jadoun)
+
+## ⚡ GitHub Stats 
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh-jadoun&show_icons=true&theme=tokyonight)
+
+## 🏆 GitHub Trophies 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harsh-jadoun&theme=monokai&margin-w=10&row=2&column=3)](https://github.com/Harsh-jadoun)
