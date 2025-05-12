@@ -5,10 +5,16 @@ I'm passionate Btech student from ITM group of instituion (Aligarh) with a keen 
 About Me
 
 -  🎓 Studying Bachelor of Technology (BTECH) at T ITM group of instituions.
-- 💻 Proficient in HTML5, CSS3, and C.
+- 💻 Proficient in HTML5, CSS3, Java and C.
 - 🌱 Always learning and exploring new technologies to enhance my skills.
 - 📚 Currently diving deeper into frameworks,Data Structure and algorithms.
 - 📫 How to reach me: 
 - Instagram id:- Official_jadoun_thakur.
 - Email id:- harshgbn07@gmail.com
 
+Skills
+Programming Languages:
+HTML5 CSS3 Java C
+
+Tools and Technologies:
+Git 
