@@ -4,7 +4,7 @@ I'm passionate Btech student from ITM group of instituion (Aligarh) with a keen 
 
 ## About Me
 
--  🎓 Studying Bachelor of Technology (BTECH) at T ITM group of instituions.
+-  🎓 Studying Bachelor of Technology (BTECH) at ITM group of instituions.
 - 💻 Proficient in HTML5, CSS3, Java and C.
 - 🌱 Always learning and exploring new technologies to enhance my skills.
 - 📚 Currently diving deeper into frameworks,Data Structure and algorithms.
@@ -22,3 +22,6 @@ I'm passionate Btech student from ITM group of instituion (Aligarh) with a keen 
 ### Technologies and tools: 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
+
+### Most used Language:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Harsh-jadoun=Harsh-jadoun&layout=compact)](https://github.com/Harsh-jaoun)
