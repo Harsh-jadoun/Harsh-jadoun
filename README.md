@@ -23,5 +23,5 @@ I'm passionate Btech student from ITM group of instituion (Aligarh) with a keen 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
-### Most used Language:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Harsh-jadoun=Harsh-jadoun&layout=compact)](https://github.com/Harsh-jaoun)
+## 📊 Top Languages Used 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-jadoun&layout=compact&theme=tokyonight)](https://github.com/Harsh-jadoun)
