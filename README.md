@@ -2,7 +2,7 @@
 
 I'm passionate Btech student from ITM group of instituion (Aligarh) with a keen interest in Data Structure and Algorithm and programming. Welcome to my GitHub profile!
 
-About Me
+## About Me
 
 -  🎓 Studying Bachelor of Technology (BTECH) at T ITM group of instituions.
 - 💻 Proficient in HTML5, CSS3, Java and C.
