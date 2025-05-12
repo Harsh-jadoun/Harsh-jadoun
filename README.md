@@ -1,6 +1,5 @@
 ## Hi there I am Harsh Jadoun👋
 
-<!--
 I'm passionate Btech student from ITM group of instituion (Aligarh) with a keen interest in Data Structure and Algorithm and programming. Welcome to my GitHub profile!
 
 About Me
